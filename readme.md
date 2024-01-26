@@ -39,7 +39,8 @@ To set up the testing suite, follow these steps:
 ## Running the Tests
 
 To run the tests and generate the report, execute:
-npm run test-and-report
+
+`npm run test-and-report`
 
 This will initiate the Playwright tests and upon completion, generate a report showing the number of passing and failing cases.
 
