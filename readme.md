@@ -30,11 +30,11 @@ To set up the testing suite, follow these steps:
     * Open your command line or terminal.
     * Change directory to the newly created folder
     * Clone the repository using Git:
-    'git clone https://github.com/maria-kozlova/UI_TestAutomation'
+    '''git clone https://github.com/maria-kozlova/UI_TestAutomation'''
     * After cloning, navigate into the cloned project directory
-    
+
 3. Install the dependencies:
-'npm install'
+'''npm install'''
 
 ## Running the Tests
 
